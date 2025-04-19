@@ -7,7 +7,7 @@
 <h2>Key Components:</h2>
 
 <ol>
-  <li>HTML:
+  <li><b>HTML:</b>
     <ul>
       <li>Structures the calendar layout.</li>
       <li>Contains elements for displaying the month, days, and navigation buttons.</li>
