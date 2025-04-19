@@ -21,7 +21,7 @@
       <li>Defines the appearance of weekdays, weekends, and highlighted dates.</li>
     </ul>
   </li>
-  <li>Javascript:
+  <li><b>Javascript:</b>
     <ul>
       <li>Handles dynamic functionality like switching months and years.</li>
       <li>Calculates which day of the week a month starts on.</li>
