@@ -14,7 +14,7 @@
       <li>Includes placeholders for dynamic content such as selected dates or events.</li>
     </ul>
   </li>
-  <li>CSS:
+  <li><b>CSS:</b>
     <ul>
       <li>Styles the calendar to make it visually appealing.</li>
       <li>Ensures responsive design, so the calendar works well across devices.</li>
